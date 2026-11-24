@@ -5,3 +5,8 @@
 
  ## Diagram
 ![Home network map](https://github.com/EesaRH/Writeups/blob/main/network-diagram.png?raw=true)
+
+## How the addressing works
+-Subnet: 192.168.0.0/24, mask 255.255.255.0 254 usable addresses
+-
+
