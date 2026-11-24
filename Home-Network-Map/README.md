@@ -4,3 +4,4 @@
  and what the network looks like.
 
  ## Diagram
+![Home network map](https://github.com/EesaRH/Writeups/blob/main/network-diagram.png?raw=true)
